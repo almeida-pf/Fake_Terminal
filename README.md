@@ -14,5 +14,4 @@ Then this website template is for you.
 
 A Fake terminal website for coders.
 
-Live Demo [here]([https://rimijoker.github.io/Fake_Terminal_Resume_Website/)
-![Live website image](Screenshot.png](https://github.com/almeida-pf/Fake_Terminal/blob/main/FakeTerminal.png))
+Live Demo [here](https://github.com/almeida-pf/Fake_Terminal/blob/main/FakeTerminal.png).
